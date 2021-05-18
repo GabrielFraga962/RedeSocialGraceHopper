@@ -1,5 +1,5 @@
-# RedeSocialGraceHopper
-GraceHopper é uma rede social com o intuito de ajudar os seus usuários  encontrar um caminho/trilha que o direcionem para a aquisição de conhecimento que é desejado pelos seus seguidores
+# RedeSocial-EducaSocial
+O EducaSocial é uma rede social com o intuito de ajudar os seus usuários  encontrar um caminho/trilha que o direcionem para a aquisição de conhecimento que é desejado pelos seus seguidores
 
 # Funcionalidades do sistema até o momento
 ## Usuário 
